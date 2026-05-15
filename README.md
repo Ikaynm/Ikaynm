@@ -10,7 +10,7 @@
   <br><br>
   
   <h3>🚀 Tech Stack & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,react,mysql,linux,redhat,express,postman,react,redhat,supabase,tailwind,vite,nodejs" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,react,mysql,linux,redhat,express,postman,react,supabase,tailwind,vite,nodejs" alt="My Skills" />
 </div>
 
 <br>
